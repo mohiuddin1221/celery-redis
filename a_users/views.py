@@ -73,6 +73,8 @@ def profile_emailchange(request):
         
     return redirect('home')
     return redirect('main')
+    return redirect('main')
+    return redirect('main')
 
 
 @login_required
