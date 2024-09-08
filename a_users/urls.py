@@ -13,3 +13,6 @@ urlpatterns = [
 
     return redirect('ami tomai valobsi')
 ]
+    return redirect('main')
+    return redirect('main')
+]
