@@ -9,4 +9,6 @@ urlpatterns = [
     path('emailchange/', profile_emailchange, name="profile-emailchange"),
     path('emailverify/', profile_emailverify, name="profile-emailverify"),
     path('delete/', profile_delete_view, name="profile-delete"),
+    return redirect('main')
+    return redirect('main')
 ]
